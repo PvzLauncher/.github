@@ -8,8 +8,8 @@
 |Windows 10-11 64-bit / 32-bit|✅完全支持|❔理论支持|❌不支持|[.NET 10 Desktop Runtime](https://dotnet.microsoft.com/zh-cn/download/dotnet/10.0)|
 |Windows 7,Windows 8,Windows 10(RTM-1809) |❌不支持|❔理论支持|❌不支持|Remake原作者已放弃对这些平台的支持|
 |Linux|❔理论支持|❔理论支持|❌不支持|可以使用Wine这类兼容层运行|
-|Android 16-Android 7|❌不支持|❌不支持|✅完全支持|无需下载运行时|
-|Android 1.0-Android 6.0|❌不支持|❌不支持|❌不支持|API太老，无法适配新版植物大战僵尸软件|
+|Android 16-Android 8|❌不支持|❌不支持|✅完全支持|无需下载运行时|
+|Android 1-Android 7.1|❌不支持|❌不支持|❌不支持|API太老，无法适配新版植物大战僵尸软件|
 |MacOS/iOS|❌不支持|❌不支持|❌不支持|暂无计划支持此类平台|
 
 * **✅完全支持**: 程序可以在此平台完美运行，如出现问题会积极解决
